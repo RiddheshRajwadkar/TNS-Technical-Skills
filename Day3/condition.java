@@ -1,6 +1,6 @@
 package Day3;
 
-public class loop {
+public class condition {
     public static void main(String[] args) {
         int age=15;
 
