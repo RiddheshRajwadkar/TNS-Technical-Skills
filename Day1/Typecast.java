@@ -1,4 +1,4 @@
-package Day2;
+package Day1;
 
 public class Typecast {
     //The process to convert one datatype to another datatype.

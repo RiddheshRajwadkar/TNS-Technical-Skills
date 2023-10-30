@@ -1,4 +1,4 @@
-package Day3;
+package Day2;
 
 public class Branch {
     public static void main(String[] args) {

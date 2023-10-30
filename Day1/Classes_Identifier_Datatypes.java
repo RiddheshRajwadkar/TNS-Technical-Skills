@@ -1,4 +1,4 @@
-package Day2;
+package Day1;
 
 public class Classes_Identifier_Datatypes {
     
