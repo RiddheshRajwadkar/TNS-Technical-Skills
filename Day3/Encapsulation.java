@@ -1,8 +1,7 @@
-package Day3;
+
 
 public class Encapsulation {
-    
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         
         oopDemo oops = new oopDemo();
 

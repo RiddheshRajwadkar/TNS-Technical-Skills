@@ -1,7 +1,4 @@
-package Day3;
-/*
- * OOP: Object oriented programming is core of java programming. It is used to design a program using classes and objects.
- */
+
 
  //Encapsulation: Encapsulation is a key  of OOP. It refers to bundling 
 public class oopDemo {
