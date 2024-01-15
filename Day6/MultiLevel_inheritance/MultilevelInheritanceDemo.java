@@ -1,4 +1,4 @@
-package Day6.Multiple_inheritance;
+package Day6.MultiLevel_inheritance;
 
 public class MultilevelInheritanceDemo {
     
