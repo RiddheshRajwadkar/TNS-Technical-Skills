@@ -1,0 +1,36 @@
+.Head
+{
+    width: 90%;
+    margin: auto;
+    background-color: black;
+    color: gray;
+}
+
+.Intro
+{
+    width: 90%;
+    margin: auto;
+}
+
+.Cast
+{
+    width: 70%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border: 5px white dotted;
+}
+
+.Music-title
+{
+    width: 90%;
+    margin: auto;
+
+}
+
+.Music
+{
+    width: 20%;
+    margin: auto;
+
+}
